@@ -4257,7 +4257,7 @@ textarea.form-control {
   }
 
   .presentation-title {
-    font-size: 5em;
+    font-size: 3em;
   }
 
   .presentation-subtitle {
@@ -5852,7 +5852,7 @@ textarea.form-control {
 }
 
 .presentation-title {
-  font-size: 8em;
+  font-size: 4em;
   font-weight: 700;
   margin: 0;
   color: #FFFFFF;
@@ -5893,14 +5893,14 @@ textarea.form-control {
   margin-left: -35%;
   margin-bottom: -50px;
   width: 110%;
-  opacity: .85;
+  opacity: .45;
 }
 .fog-low img {
   width: 100%;
 }
 .fog-low.right {
   margin-left: 30%;
-  opacity: 1;
+  opacity: .45;
 }
 
 .page-header .content-center {
