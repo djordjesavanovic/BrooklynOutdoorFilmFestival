@@ -2599,7 +2599,7 @@ textarea.form-control {
 
 .footer nav > ul > li {
   display: inline-block;
-  padding: 10px 5px;
+  padding: 10px 0px;
   margin: 15px 0px;
   line-height: 20px;
   text-align: center;
